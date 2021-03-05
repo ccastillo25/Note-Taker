@@ -4,7 +4,7 @@ Note-Taker is a program to easily write, store, and view notes.
 
 ## Installation
 
-Use the link https://ccastillo25.github.io/Note-Taker/ to view page.
+Use the link http://localhost:3000/ to view page.
 
 ## Usage
 
