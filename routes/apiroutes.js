@@ -17,6 +17,7 @@ router.delete("/api/notes/:id", function (req, res) {
   notes.deleteNote(req.params.id)
   .then(() => res.json({ok: true}))
   .catch(err => res.status(500).json(err));
+  console.log();
 })
 
 module.exports = router;  
